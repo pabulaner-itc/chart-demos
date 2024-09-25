@@ -1,0 +1,15 @@
+
+}
+java:S1854":Remove this useless assignment to local variable "europe".(‹½8÷ƒ¼€¢2J$c87ed5dd-e47d-4145-8edc-5776354579d9
+{
+java:S1854"8Remove this useless assignment to local variable "asia".(ïæ£µ8÷ƒ¼€¢2J$5c3e3e5d-d4c4-481b-bfa9-77622c6a21d2
+l
+java:S1481")Remove this unused "asia" local variable.(ïæ£µ8ûƒ¼€¢2J$49e61e34-e20d-4733-b9a5-887d593a5b55
+n
+java:S1481"+Remove this unused "europe" local variable.(‹½8üƒ¼€¢2J$502e8a80-f941-4a56-8686-9153f4bae145
+r	java:S106+"+Replace this use of System.out by a logger.(ÆÉ§÷úÿÿÿÿ8ıƒ¼€¢2J$8c157658-8201-4202-9aae-12f5011049c5
+m	java:S1060"+Replace this use of System.out by a logger.(®íã¿8ıƒ¼€¢2J$be982cbf-67be-4271-82e1-6856a175079d
+m	java:S1066"+Replace this use of System.out by a logger.(á¿ÇÑ8şƒ¼€¢2J$9661f48d-46e9-49d3-bc5e-fba3a18d51b7
+ƒ	java:S125:"<This block of commented-out lines of code should be removed.(Ôşğıÿÿÿÿÿ8şƒ¼€¢2J$a30ef65e-9b80-486f-8a58-a29b1f13a892
+~	java:S125@"<This block of commented-out lines of code should be removed.(²Ûú¨8ÿƒ¼€¢2J$323d2a8e-7f7d-4340-8d84-c3c5e249050b
+ƒ	java:S125F"<This block of commented-out lines of code should be removed.(åúüÿÿÿÿ8ÿƒ¼€¢2J$93033f51-8b80-42ff-9fe1-9cd988803d59
